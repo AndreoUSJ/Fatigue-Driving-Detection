@@ -11,5 +11,5 @@ tflite_model = converter.convert()
 
 with open("fatigue_model2.tflite", "wb") as f:
     f.write(tflite_model)
-
+ 
 print("Saved fatigue_model2.tflite")
