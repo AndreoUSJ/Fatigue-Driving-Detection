@@ -5,7 +5,7 @@ This file explains how to reproduce the model training process used in this proj
 The training process is based on the notebook:
 
 ```text
-model_comp.ipynb
+model_training.ipynb
 ```
 
 The objective is to train and compare three fatigue-detection models:
