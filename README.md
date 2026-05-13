@@ -130,5 +130,14 @@ To improve stability, the system was updated with:
 
 To test the model in real time, run:
 
+
+
 ```bash
 python live_test_model.py
+```
+
+## Note About Running the Android App
+
+You can also run the Android application code, but you need an Android phone to install and test the app properly. The app uses the phone camera for live fatigue detection and communicates with the backend for Telegram notification.
+
+Please note that our hosted database/backend service may expire soon, so some backend features such as login, fatigue logs, or Telegram notification may stop working unless the backend and database are redeployed or reconfigured.
