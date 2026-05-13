@@ -71,7 +71,7 @@ pip install opencv-python mediapipe
 Open the notebook in Google Colab:
 
 ```text
-model_comp.ipynb
+model_training.ipynb
 ```
 
 Mount Google Drive:
